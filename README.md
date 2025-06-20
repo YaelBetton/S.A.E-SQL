@@ -1,7 +1,5 @@
 # 🎮 SAE R1.04 – Analyse des ventes de jeux vidéo avec SQL
 
-> Projet réalisé dans le cadre du BUT Informatique – Semestre 1 (Groupe G2B)
-
 ## 👥 Membres du groupe
 - Betton Yaël  
 - Bastide Rémi  
